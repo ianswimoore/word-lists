@@ -1,0 +1,1 @@
+.\hashcat.exe -m 1400 -a 1 -O --hex-charset --workload-profile 4 --opencl-device-types 1,2 hash.txt words2.txt words3.txt
